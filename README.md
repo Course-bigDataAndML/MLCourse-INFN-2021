@@ -1,8 +1,8 @@
 # MLCourse-INFN-2021
 
-- Material for the INFN Course 'Big Data and ML' 
 - The course will take place on October 11-15 2021, from 10-12 and 14-16
 - Course schedule [here](#schedule)
+- This repository contains material (notebooks and slides) for the INFN CCR Course 'Big Data and ML' 
 
 ## Pre-requisites
 
